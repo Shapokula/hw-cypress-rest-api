@@ -1,0 +1,42 @@
+{
+    "user1": {
+            "id": 1,
+            "username": "User1",
+            "firstName": "User",
+            "lastName": "Userovich",
+            "email": "user1@user.net",
+            "password": "passw1",
+            "phone": "phone1",
+            "userStatus": 0
+        },
+    "user2": {
+            "id": 2,
+            "username": "User2",
+            "firstName": "Usera",
+            "lastName": "Userovna",
+            "email": "user2@user.net",
+            "password": "passw2",
+            "phone": "phone2",
+            "userStatus": 0
+        },
+    "user3": {
+            "id": 3,
+            "username": "User3",
+            "firstName": "Userka",
+            "lastName": "Userova",
+            "email": "user3@user.net",
+            "password": "passw3",
+            "phone": "phone3",
+            "userStatus": 0
+        },
+    "user4": {
+        "id": 4,
+        "username": "User4",
+        "firstName": "Userkin",
+        "lastName": "Userkin",
+        "email": "user4@user.net",
+        "password": "passw4",
+        "phone": "phone4",
+        "userStatus": 0
+    }
+}    
